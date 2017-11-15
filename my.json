@@ -1,0 +1,201 @@
+{
+    "resultcode": "200",
+    "reason": "Success",
+    "result": {
+        "data": [
+        {
+            "id": "45",
+            "title": "teamLab：花舞森林与未来游乐园",
+            "content":"时间：2017年5月20日－2017年11月19日",
+            "image":"https://img3.doubanio.com/view/event_poster/median/public/b3df12e4e3e1270.jpg",
+            "category_name":"展览"
+            
+        },
+        {
+            "id": "52",
+             "title": "伊藤润二经典美学AR体验展",
+            "content":"购买须知：电子票：现场扫码验票或凭姓名手机号入场（以现场为准",
+            "image":"https://img3.doubanio.com/view/event_poster/median/public/131875877d7f285.jpg",
+            "category_name":"展览"
+        },
+        {
+            "id": "92",
+            "title": "赵孟頫书画特展",
+             "content":"赵孟頫书画特展9月5日 武英殿展厅更多信息，有待故宫官网发布",
+            "image":"https://img1.doubanio.com/view/event_poster/median/public/40d5c6bcc9730e8.jpg",
+            "category_name":"展览"
+            
+        },
+         {
+            "id": "92",
+            "title": "LIGHTS PLAY！三里屯太古里2017灯光节",
+             "content":"三里屯太古里灯光节2017预热视频_腾讯视频",
+            "image":"https://img3.doubanio.com/view/event_poster/median/public/0cc0840a465f571.jpg",
+            "category_name":"展览"
+            
+        },
+        {
+            "id": "92",
+            "title": "青绿山水书画特展",
+             "content":"没错，这次展览将展出《千里江山图》！",
+            "image":"https://img3.doubanio.com/view/event_poster/median/public/c011ae5a2417e14.jpg",
+            "category_name":"展览"
+            
+        },
+        {
+            "id": "92",
+            "title": "秦汉文明展",
+             "content":"展期：2017年9月17日开幕（展期以国博官网为准）",
+            "image":"https://img3.doubanio.com/view/event_poster/median/public/e74003452677a41.jpg",
+            "category_name":"展览"
+            
+        },
+        {
+            "id": "92",
+            "title": "孟京辉经典戏剧作品《恋爱的犀牛》",
+             "content":"购买须知：1.2米以下儿童谢绝入场（儿童项目除外），1.2米以上儿童需持票入场。",
+            "image":"https://img3.doubanio.com/view/event_poster/median/public/fb92be2b7747de3.jpg",
+            "category_name":"戏剧"
+            
+        },
+         {
+            "id": "92",
+            "title": "“浮游”赵雷2017北京演唱会",
+             "content":"购买须知：1.2米以下儿童谢绝入场（儿童项目除外），1.2米以上儿童需持票入场。",
+            "image":"https://img3.doubanio.com/view/event_poster/median/public/8c7b59d2a7904df.jpg",
+            "category_name":"音乐"
+            
+        },
+        {
+            "id": "45",
+            "title": "teamLab：花舞森林与未来游乐园",
+            "content":"时间：2017年5月20日－2017年11月19日",
+            "image":"https://img3.doubanio.com/view/event_poster/median/public/b3df12e4e3e1270.jpg",
+            "category_name":"展览"
+            
+        },
+        {
+            "id": "52",
+             "title": "伊藤润二经典美学AR体验展",
+            "content":"购买须知：电子票：现场扫码验票或凭姓名手机号入场（以现场为准",
+            "image":"https://img3.doubanio.com/view/event_poster/median/public/131875877d7f285.jpg",
+            "category_name":"展览"
+        },
+        {
+            "id": "92",
+            "title": "赵孟頫书画特展",
+             "content":"赵孟頫书画特展9月5日 武英殿展厅更多信息，有待故宫官网发布",
+            "image":"https://img1.doubanio.com/view/event_poster/median/public/40d5c6bcc9730e8.jpg",
+            "category_name":"展览"
+            
+        },
+         {
+            "id": "92",
+            "title": "LIGHTS PLAY！三里屯太古里2017灯光节",
+             "content":"三里屯太古里灯光节2017预热视频_腾讯视频",
+            "image":"https://img3.doubanio.com/view/event_poster/median/public/0cc0840a465f571.jpg",
+            "category_name":"展览"
+            
+        },
+        {
+            "id": "92",
+            "title": "青绿山水书画特展",
+             "content":"没错，这次展览将展出《千里江山图》！",
+            "image":"https://img3.doubanio.com/view/event_poster/median/public/c011ae5a2417e14.jpg",
+            "category_name":"展览"
+            
+        },
+        {
+            "id": "92",
+            "title": "秦汉文明展",
+             "content":"展期：2017年9月17日开幕（展期以国博官网为准）",
+            "image":"https://img3.doubanio.com/view/event_poster/median/public/e74003452677a41.jpg",
+            "category_name":"展览"
+            
+        },
+        {
+            "id": "92",
+            "title": "孟京辉经典戏剧作品《恋爱的犀牛》",
+             "content":"购买须知：1.2米以下儿童谢绝入场（儿童项目除外），1.2米以上儿童需持票入场。",
+            "image":"https://img3.doubanio.com/view/event_poster/median/public/fb92be2b7747de3.jpg",
+            "category_name":"戏剧"
+            
+        },
+         {
+            "id": "92",
+            "title": "“浮游”赵雷2017北京演唱会",
+             "content":"购买须知：1.2米以下儿童谢绝入场（儿童项目除外），1.2米以上儿童需持票入场。",
+            "image":"https://img3.doubanio.com/view/event_poster/median/public/8c7b59d2a7904df.jpg",
+            "category_name":"音乐"
+            
+        },
+        {
+            "id": "45",
+            "title": "teamLab：花舞森林与未来游乐园",
+            "content":"时间：2017年5月20日－2017年11月19日",
+            "image":"https://img3.doubanio.com/view/event_poster/median/public/b3df12e4e3e1270.jpg",
+            "category_name":"展览"
+            
+        },
+        {
+            "id": "52",
+             "title": "伊藤润二经典美学AR体验展",
+            "content":"购买须知：电子票：现场扫码验票或凭姓名手机号入场（以现场为准",
+            "image":"https://img3.doubanio.com/view/event_poster/median/public/131875877d7f285.jpg",
+            "category_name":"展览"
+        },
+        {
+            "id": "92",
+            "title": "赵孟頫书画特展",
+             "content":"赵孟頫书画特展9月5日 武英殿展厅更多信息，有待故宫官网发布",
+            "image":"https://img1.doubanio.com/view/event_poster/median/public/40d5c6bcc9730e8.jpg",
+            "category_name":"展览"
+            
+        },
+         {
+            "id": "92",
+            "title": "LIGHTS PLAY！三里屯太古里2017灯光节",
+             "content":"三里屯太古里灯光节2017预热视频_腾讯视频",
+            "image":"https://img3.doubanio.com/view/event_poster/median/public/0cc0840a465f571.jpg",
+            "category_name":"展览"
+            
+        },
+        {
+            "id": "92",
+            "title": "青绿山水书画特展",
+             "content":"没错，这次展览将展出《千里江山图》！",
+            "image":"https://img3.doubanio.com/view/event_poster/median/public/c011ae5a2417e14.jpg",
+            "category_name":"展览"
+            
+        },
+        {
+            "id": "92",
+            "title": "秦汉文明展",
+             "content":"展期：2017年9月17日开幕（展期以国博官网为准）",
+            "image":"https://img3.doubanio.com/view/event_poster/median/public/e74003452677a41.jpg",
+            "category_name":"展览"
+            
+        },
+        {
+            "id": "92",
+            "title": "孟京辉经典戏剧作品《恋爱的犀牛》",
+             "content":"购买须知：1.2米以下儿童谢绝入场（儿童项目除外），1.2米以上儿童需持票入场。",
+            "image":"https://img3.doubanio.com/view/event_poster/median/public/fb92be2b7747de3.jpg",
+            "category_name":"戏剧"
+            
+        },
+         {
+            "id": "92",
+            "title": "“浮游”赵雷2017北京演唱会",
+             "content":"购买须知：1.2米以下儿童谢绝入场（儿童项目除外），1.2米以上儿童需持票入场。",
+            "image":"https://img3.doubanio.com/view/event_poster/median/public/8c7b59d2a7904df.jpg",
+            "category_name":"音乐"
+            
+        }
+        ],
+        "totalNum": "306",
+        "pn": "1",
+        "rn": "3"
+    },
+    "error_code": 0
+}
